@@ -1,6 +1,6 @@
 # WordBee kelime içeriği (`words.json`)
 
-Uygulama bu dosyayı günde en fazla bir kez indirir. Yeni içerik, çocuk uygulamayı
+Uygulama bu dosyayı açılışta kontrol eder (en fazla saatte bir). Yeni içerik, çocuk uygulamayı
 **bir sonraki açışında** görünür.
 
 ## Güncelleme adımları

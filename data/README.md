@@ -13,6 +13,18 @@ Uygulama bu dosyayı günde en fazla bir kez indirir. Yeni içerik, çocuk uygul
 
 Kontrol için tarayıcıda aç: https://wordbee-app.github.io/data/words.json
 
+## Kullanıcıya gösterilen bildirim
+
+Yeni sürüm uygulandığında uygulama açılışta **"Yeni kelimeler geldi!"** penceresi gösterir ve eklenen
+kelimeleri listeler (yeni kategori varsa "Yeni bölüm" olarak). İstersen pencereye kendi mesajını
+da ekleyebilirsin; `"updated"` satırının altına:
+
+```json
+  "announcement": { "tr": "Yeni hayvanlar geldi! 🦓", "en": "New animals are here! 🦓" },
+```
+
+Bu alan isteğe bağlıdır. Bir sonraki güncellemede kaldırmazsan, o güncellemede de gösterilir.
+
 ## Kurallar (uygulama bu kurallara uymayan dosyayı yok sayar ve eski kelimelerle devam eder)
 
 - **Var olan `id`'leri değiştirme veya silme.** Çocuğun ilerlemesi ve yıldızları bu id'lere bağlı.

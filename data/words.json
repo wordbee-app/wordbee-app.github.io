@@ -1,0 +1,547 @@
+{
+  "format": 1,
+  "version": 1,
+  "updated": "2026-10-24",
+  "categories": [
+    {
+      "id": "animals",
+      "titles": {"tr": "Hayvanlar", "en": "Animals"},
+      "stars": 0,
+      "color": "#FF6B6B",
+      "gradient": ["#FF8A80", "#D32F2F"],
+      "story": { "emoji": "🌳", "tr": "Arı ormana gitti! Hayvanları keşfedelim 🐝", "en": "Bee went to the forest! Let us meet the animals 🐝" },
+      "sentences": [
+        { "en": "I see a ___", "tr": "Bir ___ görüyorum" },
+        { "en": "The ___ is happy", "tr": "___ mutlu" },
+        { "en": "I love the ___", "tr": "___ seviyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "cat", "translation": "kedi", "image": "🐱" },
+        { "id": "2", "word": "dog", "translation": "köpek", "image": "🐶" },
+        { "id": "3", "word": "bird", "translation": "kuş", "image": "🐦" },
+        { "id": "4", "word": "fish", "translation": "balık", "image": "🐟" },
+        { "id": "5", "word": "lion", "translation": "aslan", "image": "🦁" },
+        { "id": "6", "word": "elephant", "translation": "fil", "image": "🐘" },
+        { "id": "7", "word": "monkey", "translation": "maymun", "image": "🐵" },
+        { "id": "8", "word": "tiger", "translation": "kaplan", "image": "🐯" },
+        { "id": "9", "word": "bear", "translation": "ayı", "image": "🐻" },
+        { "id": "10", "word": "rabbit", "translation": "tavşan", "image": "🐰" },
+        { "id": "11", "word": "cow", "translation": "inek", "image": "🐮" },
+        { "id": "12", "word": "pig", "translation": "domuz", "image": "🐷" },
+        { "id": "13", "word": "frog", "translation": "kurbağa", "image": "🐸" },
+        { "id": "14", "word": "panda", "translation": "panda", "image": "🐼" },
+        { "id": "15", "word": "chicken", "translation": "tavuk", "image": "🐔" },
+        { "id": "16", "word": "duck", "translation": "ördek", "image": "🦆" },
+        { "id": "17", "word": "horse", "translation": "at", "image": "🐴" },
+        { "id": "18", "word": "sheep", "translation": "koyun", "image": "🐑" },
+        { "id": "19", "word": "goat", "translation": "keçi", "image": "🐐" },
+        { "id": "20", "word": "mouse", "translation": "fare", "image": "🐭" },
+        { "id": "21", "word": "snake", "translation": "yılan", "image": "🐍" },
+        { "id": "22", "word": "turtle", "translation": "kaplumbağa", "image": "🐢" },
+        { "id": "23", "word": "whale", "translation": "balina", "image": "🐋" },
+        { "id": "24", "word": "dolphin", "translation": "yunus", "image": "🐬" },
+        { "id": "25", "word": "octopus", "translation": "ahtapot", "image": "🐙" }
+      ]
+    },
+    {
+      "id": "colors",
+      "titles": {"tr": "Renkler", "en": "Colors"},
+      "stars": 0,
+      "color": "#4ECDC4",
+      "gradient": ["#80DEEA", "#00838F"],
+      "story": { "emoji": "🎨", "tr": "Arının boyaları karıştı! Renkleri bulalım 🎨", "en": "Bee mixed up the paints! Find the colors 🎨" },
+      "sentences": [
+        { "en": "The sky is ___", "tr": "Gökyüzü ___" },
+        { "en": "My shirt is ___", "tr": "Gömleğim ___" },
+        { "en": "I like ___", "tr": "___ severim" }
+      ],
+      "words": [
+        { "id": "1", "word": "red", "translation": "kırmızı", "image": "🔴" },
+        { "id": "2", "word": "blue", "translation": "mavi", "image": "🔵" },
+        { "id": "3", "word": "green", "translation": "yeşil", "image": "🟢" },
+        { "id": "4", "word": "yellow", "translation": "sarı", "image": "🟡" },
+        { "id": "5", "word": "orange", "translation": "turuncu", "image": "🟠" },
+        { "id": "6", "word": "purple", "translation": "mor", "image": "🟣" },
+        { "id": "7", "word": "black", "translation": "siyah", "image": "⚫" },
+        { "id": "8", "word": "white", "translation": "beyaz", "image": "⚪" },
+        { "id": "9", "word": "brown", "translation": "kahverengi", "image": "🟤" },
+        { "id": "10", "word": "pink", "translation": "pembe", "image": "🌸" },
+        { "id": "11", "word": "gray", "translation": "gri", "image": "🌫️" },
+        { "id": "12", "word": "gold", "translation": "altın", "image": "🪙" },
+        { "id": "13", "word": "silver", "translation": "gümüş", "image": "🥈" },
+        { "id": "14", "word": "beige", "translation": "bej", "image": "🥯" },
+        { "id": "15", "word": "navy", "translation": "lacivert", "image": "👖" }
+      ]
+    },
+    {
+      "id": "numbers",
+      "titles": {"tr": "Sayılar", "en": "Numbers"},
+      "stars": 0,
+      "color": "#45B7D1",
+      "gradient": ["#90CAF9", "#1565C0"],
+      "story": { "emoji": "🔢", "tr": "Bal kovanları sayılıyor! Sayıları öğrenelim 1️⃣", "en": "Bee is counting honey jars! Learn numbers 1️⃣" },
+      "sentences": [
+        { "en": "I count to ___", "tr": "___ saydım" },
+        { "en": "I have ___ apples", "tr": "___ elmam var" }
+      ],
+      "words": [
+        { "id": "1", "word": "one", "translation": "bir", "image": "1️⃣" },
+        { "id": "2", "word": "two", "translation": "iki", "image": "2️⃣" },
+        { "id": "3", "word": "three", "translation": "üç", "image": "3️⃣" },
+        { "id": "4", "word": "four", "translation": "dört", "image": "4️⃣" },
+        { "id": "5", "word": "five", "translation": "beş", "image": "5️⃣" },
+        { "id": "6", "word": "six", "translation": "altı", "image": "6️⃣" },
+        { "id": "7", "word": "seven", "translation": "yedi", "image": "7️⃣" },
+        { "id": "8", "word": "eight", "translation": "sekiz", "image": "8️⃣" },
+        { "id": "9", "word": "nine", "translation": "dokuz", "image": "9️⃣" },
+        { "id": "10", "word": "ten", "translation": "on", "image": "🔟" },
+        { "id": "11", "word": "eleven", "translation": "on bir", "image": "1️⃣1️⃣" },
+        { "id": "12", "word": "twelve", "translation": "on iki", "image": "1️⃣2️⃣" },
+        { "id": "13", "word": "twenty", "translation": "yirmi", "image": "2️⃣0️⃣" },
+        { "id": "14", "word": "thirty", "translation": "otuz", "image": "3️⃣0️⃣" },
+        { "id": "15", "word": "hundred", "translation": "yüz", "image": "💯" }
+      ]
+    },
+    {
+      "id": "fruits",
+      "titles": {"tr": "Meyveler", "en": "Fruits"},
+      "stars": 5,
+      "color": "#96CEB4",
+      "gradient": ["#A5D6A7", "#2E7D32"],
+      "story": { "emoji": "🍎", "tr": "Bahçe meyvelerle dolu! Hangisi ne tat? 🍓", "en": "The garden is full of fruits! Taste them 🍓" },
+      "sentences": [
+        { "en": "I eat a ___", "tr": "Bir ___ yiyorum" },
+        { "en": "The ___ is sweet", "tr": "___ tatlı" },
+        { "en": "I want a ___", "tr": "Bir ___ istiyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "apple", "translation": "elma", "image": "🍎" },
+        { "id": "2", "word": "banana", "translation": "muz", "image": "🍌" },
+        { "id": "3", "word": "grape", "translation": "üzüm", "image": "🍇" },
+        { "id": "4", "word": "orange", "translation": "portakal", "image": "🍊" },
+        { "id": "5", "word": "lemon", "translation": "limon", "image": "🍋" },
+        { "id": "6", "word": "strawberry", "translation": "çilek", "image": "🍓" },
+        { "id": "7", "word": "watermelon", "translation": "karpuz", "image": "🍉" },
+        { "id": "8", "word": "cherry", "translation": "kiraz", "image": "🍒" },
+        { "id": "9", "word": "pear", "translation": "armut", "image": "🍐" },
+        { "id": "10", "word": "peach", "translation": "şeftali", "image": "🍑" },
+        { "id": "11", "word": "pineapple", "translation": "ananas", "image": "🍍" },
+        { "id": "12", "word": "kiwi", "translation": "kivi", "image": "🥝" },
+        { "id": "13", "word": "melon", "translation": "kavun", "image": "🍈" },
+        { "id": "14", "word": "mango", "translation": "mango", "image": "🥭" },
+        { "id": "15", "word": "coconut", "translation": "hindistan cevizi", "image": "🥥" },
+        { "id": "16", "word": "avocado", "translation": "avokado", "image": "🥑" },
+        { "id": "17", "word": "blueberry", "translation": "yaban mersini", "image": "🫐" }
+      ]
+    },
+    {
+      "id": "vehicles",
+      "titles": {"tr": "Araçlar", "en": "Vehicles"},
+      "stars": 15,
+      "color": "#FFD93D",
+      "gradient": ["#FFE082", "#F57F17"],
+      "story": { "emoji": "🚗", "tr": "Şehir trafikte! Araçları tanıyalım 🚌", "en": "The city is busy! Meet the vehicles 🚌" },
+      "sentences": [
+        { "en": "The ___ is fast", "tr": "___ hızlı" },
+        { "en": "I ride a ___", "tr": "Bir ___ kullanıyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "car", "translation": "araba", "image": "🚗" },
+        { "id": "2", "word": "bus", "translation": "otobüs", "image": "🚌" },
+        { "id": "3", "word": "train", "translation": "tren", "image": "🚂" },
+        { "id": "4", "word": "plane", "translation": "uçak", "image": "✈️" },
+        { "id": "5", "word": "bike", "translation": "bisiklet", "image": "🚲" },
+        { "id": "6", "word": "boat", "translation": "tekne", "image": "🚤" },
+        { "id": "7", "word": "truck", "translation": "kamyon", "image": "🚛" },
+        { "id": "8", "word": "taxi", "translation": "taksi", "image": "🚕" },
+        { "id": "9", "word": "rocket", "translation": "roket", "image": "🚀" },
+        { "id": "10", "word": "helicopter", "translation": "helikopter", "image": "🚁" },
+        { "id": "11", "word": "motorcycle", "translation": "motosiklet", "image": "🏍️" },
+        { "id": "12", "word": "scooter", "translation": "scooter", "image": "🛴" },
+        { "id": "13", "word": "ambulance", "translation": "ambulans", "image": "🚑" },
+        { "id": "14", "word": "police car", "translation": "polis arabası", "image": "🚓" },
+        { "id": "15", "word": "fire truck", "translation": "itfaiye", "image": "🚒" }
+      ]
+    },
+    {
+      "id": "body",
+      "titles": {"tr": "Vücut", "en": "Body Parts"},
+      "stars": 30,
+      "color": "#FF8B94",
+      "gradient": ["#F8BBD0", "#AD1457"],
+      "story": { "emoji": "🧠", "tr": "Kendimizi tanıyalım! Vücudun bölümleri 👀", "en": "Get to know yourself! Body parts 👀" },
+      "sentences": [
+        { "en": "My ___ is small", "tr": "___ küçük" },
+        { "en": "I touch my ___", "tr": "___ dokunuyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "eye", "translation": "göz", "image": "👁️" },
+        { "id": "2", "word": "ear", "translation": "kulak", "image": "👂" },
+        { "id": "3", "word": "nose", "translation": "burun", "image": "👃" },
+        { "id": "4", "word": "mouth", "translation": "ağız", "image": "👄" },
+        { "id": "5", "word": "hand", "translation": "el", "image": "✋" },
+        { "id": "6", "word": "foot", "translation": "ayak", "image": "🦶" },
+        { "id": "7", "word": "leg", "translation": "bacak", "image": "🦵" },
+        { "id": "8", "word": "arm", "translation": "kol", "image": "💪" },
+        { "id": "9", "word": "head", "translation": "kafa", "image": "🗣️" },
+        { "id": "10", "word": "tooth", "translation": "diş", "image": "🦷" },
+        { "id": "11", "word": "hair", "translation": "saç", "image": "💇" },
+        { "id": "12", "word": "finger", "translation": "parmak", "image": "👆" },
+        { "id": "13", "word": "tongue", "translation": "dil", "image": "👅" },
+        { "id": "14", "word": "brain", "translation": "beyin", "image": "🧠" },
+        { "id": "15", "word": "heart", "translation": "kalp", "image": "❤️" }
+      ]
+    },
+    {
+      "id": "weather",
+      "titles": {"tr": "Hava", "en": "Weather"},
+      "stars": 50,
+      "color": "#845EC2",
+      "gradient": ["#B39DDB", "#4527A0"],
+      "story": { "emoji": "⛅", "tr": "Bugün hava nasıl? Buluta bak ☀️", "en": "How is the weather today? Look at the cloud ☀️" },
+      "sentences": [
+        { "en": "It is ___ today", "tr": "Bugün ___" },
+        { "en": "I see the ___", "tr": "___ görüyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "sun", "translation": "güneş", "image": "☀️" },
+        { "id": "2", "word": "rain", "translation": "yağmur", "image": "🌧️" },
+        { "id": "3", "word": "snow", "translation": "kar", "image": "❄️" },
+        { "id": "4", "word": "cloud", "translation": "bulut", "image": "☁️" },
+        { "id": "5", "word": "wind", "translation": "rüzgar", "image": "💨" },
+        { "id": "6", "word": "storm", "translation": "fırtına", "image": "⛈️" },
+        { "id": "7", "word": "rainbow", "translation": "gökkuşağı", "image": "🌈" },
+        { "id": "8", "word": "star", "translation": "yıldız", "image": "⭐" },
+        { "id": "9", "word": "moon", "translation": "ay", "image": "🌙" },
+        { "id": "10", "word": "lightning", "translation": "şimşek", "image": "⚡" },
+        { "id": "11", "word": "fog", "translation": "sis", "image": "🌫️" },
+        { "id": "12", "word": "hot", "translation": "sıcak", "image": "🥵" },
+        { "id": "13", "word": "cold", "translation": "soğuk", "image": "🥶" },
+        { "id": "14", "word": "umbrella", "translation": "şemsiye", "image": "☂️" },
+        { "id": "15", "word": "tornado", "translation": "hortum", "image": "🌪️" }
+      ]
+    },
+    {
+      "id": "food",
+      "titles": {"tr": "Yiyecek", "en": "Food"},
+      "stars": 80,
+      "color": "#FF9671",
+      "gradient": ["#FFAB91", "#BF360C"],
+      "story": { "emoji": "🍕", "tr": "Mutfakta yemek var! En sevdiğin hangisi? 🍔", "en": "Food is in the kitchen! Which one is yours? 🍔" },
+      "sentences": [
+        { "en": "I want ___", "tr": "___ istiyorum" },
+        { "en": "The ___ is tasty", "tr": "___ lezzetli" },
+        { "en": "I eat ___", "tr": "___ yiyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "pizza", "translation": "pizza", "image": "🍕" },
+        { "id": "2", "word": "burger", "translation": "hamburger", "image": "🍔" },
+        { "id": "3", "word": "bread", "translation": "ekmek", "image": "🍞" },
+        { "id": "4", "word": "egg", "translation": "yumurta", "image": "🥚" },
+        { "id": "5", "word": "cheese", "translation": "peynir", "image": "🧀" },
+        { "id": "6", "word": "cake", "translation": "pasta", "image": "🍰" },
+        { "id": "7", "word": "ice cream", "translation": "dondurma", "image": "🍦" },
+        { "id": "8", "word": "cookie", "translation": "kurabiye", "image": "🍪" },
+        { "id": "9", "word": "milk", "translation": "süt", "image": "🥛" },
+        { "id": "10", "word": "water", "translation": "su", "image": "💧" },
+        { "id": "11", "word": "coffee", "translation": "kahve", "image": "☕" },
+        { "id": "12", "word": "tea", "translation": "çay", "image": "🍵" },
+        { "id": "13", "word": "juice", "translation": "meyve suyu", "image": "🧃" },
+        { "id": "14", "word": "sandwich", "translation": "sandviç", "image": "🥪" },
+        { "id": "15", "word": "fries", "translation": "patates kızartması", "image": "🍟" },
+        { "id": "16", "word": "chocolate", "translation": "çikolata", "image": "🍫" },
+        { "id": "17", "word": "popcorn", "translation": "patlamış mısır", "image": "🍿" }
+      ]
+    },
+    {
+      "id": "clothes",
+      "titles": {"tr": "Kıyafetler", "en": "Clothes"},
+      "stars": 115,
+      "color": "#2C73D2",
+      "gradient": ["#9FA8DA", "#283593"],
+      "story": { "emoji": "👕", "tr": "Bugün ne giysek? Kıyafetleri tanı 👗", "en": "What to wear today? Meet the clothes 👗" },
+      "sentences": [
+        { "en": "I wear a ___", "tr": "Bir ___ giyiyorum" },
+        { "en": "My ___ is new", "tr": "___ yeni" }
+      ],
+      "words": [
+        { "id": "1", "word": "shirt", "translation": "gömlek", "image": "👕" },
+        { "id": "2", "word": "pants", "translation": "pantolon", "image": "👖" },
+        { "id": "3", "word": "dress", "translation": "elbise", "image": "👗" },
+        { "id": "4", "word": "shoe", "translation": "ayakkabı", "image": "👟" },
+        { "id": "5", "word": "hat", "translation": "şapka", "image": "🧢" },
+        { "id": "6", "word": "sock", "translation": "çorap", "image": "🧦" },
+        { "id": "7", "word": "coat", "translation": "mont", "image": "🧥" },
+        { "id": "8", "word": "glasses", "translation": "gözlük", "image": "👓" },
+        { "id": "9", "word": "watch", "translation": "saat", "image": "⌚" },
+        { "id": "10", "word": "bag", "translation": "çanta", "image": "🎒" },
+        { "id": "11", "word": "scarf", "translation": "atkı", "image": "🧣" },
+        { "id": "12", "word": "gloves", "translation": "eldiven", "image": "🧤" },
+        { "id": "13", "word": "tie", "translation": "kravat", "image": "👔" },
+        { "id": "14", "word": "boot", "translation": "bot", "image": "👢" },
+        { "id": "15", "word": "ring", "translation": "yüzük", "image": "💍" }
+      ]
+    },
+    {
+      "id": "family",
+      "titles": {"tr": "Aile", "en": "Family"},
+      "stars": 160,
+      "color": "#F48FB1",
+      "gradient": ["#F8BBD0", "#C2185B"],
+      "story": { "emoji": "👪", "tr": "Aileyi tanıyalım! Sevdiklerimiz 💕", "en": "Meet the family! Our loved ones 💕" },
+      "sentences": [
+        { "en": "I love my ___", "tr": "___ seviyorum" },
+        { "en": "My ___ is kind", "tr": "___ çok iyi" }
+      ],
+      "words": [
+        { "id": "1", "word": "mom", "translation": "anne", "image": "👩" },
+        { "id": "2", "word": "dad", "translation": "baba", "image": "👨" },
+        { "id": "3", "word": "baby", "translation": "bebek", "image": "👶" },
+        { "id": "4", "word": "sister", "translation": "kız kardeş", "image": "👧" },
+        { "id": "5", "word": "brother", "translation": "erkek kardeş", "image": "👦" },
+        { "id": "6", "word": "grandma", "translation": "büyükanne", "image": "👵" },
+        { "id": "7", "word": "grandpa", "translation": "büyükbaba", "image": "👴" },
+        { "id": "8", "word": "family", "translation": "aile", "image": "👪" },
+        { "id": "9", "word": "son", "translation": "oğul", "image": "🧒" },
+        { "id": "10", "word": "daughter", "translation": "kız", "image": "👧" },
+        { "id": "11", "word": "uncle", "translation": "amca", "image": "🧔" },
+        { "id": "12", "word": "aunt", "translation": "teyze", "image": "👩" },
+        { "id": "13", "word": "cousin", "translation": "kuzen", "image": "👫" },
+        { "id": "14", "word": "friend", "translation": "arkadaş", "image": "🤝" },
+        { "id": "15", "word": "twin", "translation": "ikiz", "image": "👯" }
+      ]
+    },
+    {
+      "id": "school",
+      "titles": {"tr": "Okul", "en": "School"},
+      "stars": 210,
+      "color": "#7986CB",
+      "gradient": ["#9FA8DA", "#3949AB"],
+      "story": { "emoji": "🏫", "tr": "Okula gidiyoruz! Sınıf eşyaları 📚", "en": "Off to school! Classroom things 📚" },
+      "sentences": [
+        { "en": "I have a ___", "tr": "Bir ___ var" },
+        { "en": "I use the ___", "tr": "___ kullanıyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "book", "translation": "kitap", "image": "📚" },
+        { "id": "2", "word": "pen", "translation": "kalem", "image": "🖊️" },
+        { "id": "3", "word": "pencil", "translation": "kurşun kalem", "image": "✏️" },
+        { "id": "4", "word": "bag", "translation": "çanta", "image": "🎒" },
+        { "id": "5", "word": "teacher", "translation": "öğretmen", "image": "👩‍🏫" },
+        { "id": "6", "word": "desk", "translation": "sıra", "image": "🪑" },
+        { "id": "7", "word": "board", "translation": "tahta", "image": "🗒️" },
+        { "id": "8", "word": "eraser", "translation": "silgi", "image": "🧽" },
+        { "id": "9", "word": "ruler", "translation": "cetvel", "image": "📏" },
+        { "id": "10", "word": "paper", "translation": "kağıt", "image": "📄" },
+        { "id": "11", "word": "notebook", "translation": "defter", "image": "📓" },
+        { "id": "12", "word": "glue", "translation": "tutkal", "image": "🧴" },
+        { "id": "13", "word": "scissors", "translation": "makas", "image": "✂️" },
+        { "id": "14", "word": "crayon", "translation": "mum boya", "image": "🖍️" },
+        { "id": "15", "word": "school", "translation": "okul", "image": "🏫" }
+      ]
+    },
+    {
+      "id": "toys",
+      "titles": {"tr": "Oyuncaklar", "en": "Toys"},
+      "stars": 270,
+      "color": "#FFB74D",
+      "gradient": ["#FFCC80", "#EF6C00"],
+      "story": { "emoji": "🧸", "tr": "Oyuncak kutusunu açalım! 🎈", "en": "Open the toy box! 🎈" },
+      "sentences": [
+        { "en": "I play with the ___", "tr": "___ oynuyorum" },
+        { "en": "My ___ is fun", "tr": "___ eğlenceli" }
+      ],
+      "words": [
+        { "id": "1", "word": "ball", "translation": "top", "image": "⚽" },
+        { "id": "2", "word": "doll", "translation": "oyuncak bebek", "image": "🪆" },
+        { "id": "3", "word": "kite", "translation": "uçurtma", "image": "🪁" },
+        { "id": "4", "word": "balloon", "translation": "balon", "image": "🎈" },
+        { "id": "5", "word": "robot", "translation": "robot", "image": "🤖" },
+        { "id": "6", "word": "puzzle", "translation": "yapboz", "image": "🧩" },
+        { "id": "7", "word": "teddy", "translation": "oyuncak ayı", "image": "🧸" },
+        { "id": "8", "word": "drum", "translation": "davul", "image": "🥁" },
+        { "id": "9", "word": "blocks", "translation": "bloklar", "image": "🧱" },
+        { "id": "10", "word": "yoyo", "translation": "yoyo", "image": "🪀" },
+        { "id": "11", "word": "dice", "translation": "zar", "image": "🎲" },
+        { "id": "12", "word": "marble", "translation": "misket", "image": "🔘" },
+        { "id": "13", "word": "slide", "translation": "kaydırak", "image": "🛝" },
+        { "id": "14", "word": "swing", "translation": "salıncak", "image": "🎠" },
+        { "id": "15", "word": "whistle", "translation": "düdük", "image": "📯" }
+      ]
+    },
+    {
+      "id": "actions",
+      "titles": {"tr": "Eylemler", "en": "Actions"},
+      "stars": 340,
+      "color": "#4DB6AC",
+      "gradient": ["#80CBC4", "#00695C"],
+      "story": { "emoji": "🏃", "tr": "Hadi hareket edelim! Eylem zamanı 💃", "en": "Let us move! Action time 💃" },
+      "sentences": [
+        { "en": "I can ___", "tr": "___ biliyorum" },
+        { "en": "Let us ___", "tr": "Hadi ___" }
+      ],
+      "words": [
+        { "id": "1", "word": "run", "translation": "koş", "image": "🏃" },
+        { "id": "2", "word": "jump", "translation": "zıpla", "image": "🤸" },
+        { "id": "3", "word": "eat", "translation": "ye", "image": "🍽️" },
+        { "id": "4", "word": "sleep", "translation": "uyu", "image": "😴" },
+        { "id": "5", "word": "read", "translation": "oku", "image": "📖" },
+        { "id": "6", "word": "write", "translation": "yaz", "image": "✍️" },
+        { "id": "7", "word": "sing", "translation": "şarkı söyle", "image": "🎤" },
+        { "id": "8", "word": "dance", "translation": "dans et", "image": "💃" },
+        { "id": "9", "word": "swim", "translation": "yüz", "image": "🏊" },
+        { "id": "10", "word": "play", "translation": "oyna", "image": "🎮" },
+        { "id": "11", "word": "walk", "translation": "yürü", "image": "🚶" },
+        { "id": "12", "word": "drink", "translation": "iç", "image": "🥤" },
+        { "id": "13", "word": "laugh", "translation": "gül", "image": "😂" },
+        { "id": "14", "word": "cry", "translation": "ağla", "image": "😢" },
+        { "id": "15", "word": "think", "translation": "düşün", "image": "🤔" }
+      ]
+    },
+    {
+      "id": "nature",
+      "titles": {"tr": "Doğa", "en": "Nature"},
+      "stars": 420,
+      "color": "#81C784",
+      "gradient": ["#A5D6A7", "#1B5E20"],
+      "story": { "emoji": "🌳", "tr": "Doğaya bir yolculuk! 🌸", "en": "A trip into nature! 🌸" },
+      "sentences": [
+        { "en": "I see a ___", "tr": "Bir ___ görüyorum" },
+        { "en": "The ___ is big", "tr": "___ büyük" }
+      ],
+      "words": [
+        { "id": "1", "word": "tree", "translation": "ağaç", "image": "🌳" },
+        { "id": "2", "word": "flower", "translation": "çiçek", "image": "🌸" },
+        { "id": "3", "word": "river", "translation": "nehir", "image": "🏞️" },
+        { "id": "4", "word": "mountain", "translation": "dağ", "image": "⛰️" },
+        { "id": "5", "word": "beach", "translation": "plaj", "image": "🏖️" },
+        { "id": "6", "word": "leaf", "translation": "yaprak", "image": "🍃" },
+        { "id": "7", "word": "grass", "translation": "çimen", "image": "🌱" },
+        { "id": "8", "word": "rock", "translation": "kaya", "image": "🪨" },
+        { "id": "9", "word": "fire", "translation": "ateş", "image": "🔥" },
+        { "id": "10", "word": "sea", "translation": "deniz", "image": "🌊" },
+        { "id": "11", "word": "sand", "translation": "kum", "image": "🟫" },
+        { "id": "12", "word": "plant", "translation": "bitki", "image": "🪴" },
+        { "id": "13", "word": "forest", "translation": "orman", "image": "🌲" },
+        { "id": "14", "word": "sky", "translation": "gökyüzü", "image": "🌌" },
+        { "id": "15", "word": "island", "translation": "ada", "image": "🏝️" }
+      ]
+    },
+    {
+      "id": "jobs",
+      "titles": {"tr": "Meslekler", "en": "Jobs"},
+      "stars": 510,
+      "color": "#26A69A",
+      "gradient": ["#80CBC4", "#00695C"],
+      "story": { "emoji": "👨‍⚕️", "tr": "Büyüyünce ne olacaksın? Meslekler 👮", "en": "What will you be? Jobs around us 👮" },
+      "sentences": [
+        { "en": "I want to be a ___", "tr": "___ olmak istiyorum" },
+        { "en": "The ___ helps us", "tr": "___ bize yardım eder" }
+      ],
+      "words": [
+        { "id": "1", "word": "doctor", "translation": "doktor", "image": "👨‍⚕️" },
+        { "id": "2", "word": "nurse", "translation": "hemşire", "image": "👩‍⚕️" },
+        { "id": "3", "word": "police", "translation": "polis", "image": "👮" },
+        { "id": "4", "word": "firefighter", "translation": "itfaiyeci", "image": "👨‍🚒" },
+        { "id": "5", "word": "pilot", "translation": "pilot", "image": "👨‍✈️" },
+        { "id": "6", "word": "chef", "translation": "aşçı", "image": "👨‍🍳" },
+        { "id": "7", "word": "farmer", "translation": "çiftçi", "image": "👨‍🌾" },
+        { "id": "8", "word": "scientist", "translation": "bilim insanı", "image": "👨‍🔬" },
+        { "id": "9", "word": "artist", "translation": "sanatçı", "image": "👨‍🎨" },
+        { "id": "10", "word": "singer", "translation": "şarkıcı", "image": "👨‍🎤" },
+        { "id": "11", "word": "builder", "translation": "inşaatçı", "image": "👷" },
+        { "id": "12", "word": "mechanic", "translation": "tamirci", "image": "🧑‍🔧" },
+        { "id": "13", "word": "dentist", "translation": "diş hekimi", "image": "🦷" },
+        { "id": "14", "word": "judge", "translation": "hakim", "image": "👨‍⚖️" },
+        { "id": "15", "word": "astronaut", "translation": "astronot", "image": "👨‍🚀" }
+      ]
+    },
+    {
+      "id": "sports",
+      "titles": {"tr": "Sporlar", "en": "Sports"},
+      "stars": 610,
+      "color": "#EF5350",
+      "gradient": ["#EF9A9A", "#C62828"],
+      "story": { "emoji": "⚽", "tr": "Spor yapma zamanı! Hangi oyun? 🏀", "en": "Time for sports! Which game? 🏀" },
+      "sentences": [
+        { "en": "I play ___", "tr": "___ oynuyorum" },
+        { "en": "I love ___", "tr": "___ severim" }
+      ],
+      "words": [
+        { "id": "1", "word": "soccer", "translation": "futbol", "image": "⚽" },
+        { "id": "2", "word": "basketball", "translation": "basketbol", "image": "🏀" },
+        { "id": "3", "word": "tennis", "translation": "tenis", "image": "🎾" },
+        { "id": "4", "word": "baseball", "translation": "beysbol", "image": "⚾" },
+        { "id": "5", "word": "swimming", "translation": "yüzme", "image": "🏊" },
+        { "id": "6", "word": "cycling", "translation": "bisiklet", "image": "🚴" },
+        { "id": "7", "word": "skiing", "translation": "kayak", "image": "⛷️" },
+        { "id": "8", "word": "surfing", "translation": "sörf", "image": "🏄" },
+        { "id": "9", "word": "golf", "translation": "golf", "image": "⛳" },
+        { "id": "10", "word": "boxing", "translation": "boks", "image": "🥊" },
+        { "id": "11", "word": "hockey", "translation": "hokey", "image": "🏒" },
+        { "id": "12", "word": "archery", "translation": "okçuluk", "image": "🏹" },
+        { "id": "13", "word": "climbing", "translation": "tırmanma", "image": "🧗" },
+        { "id": "14", "word": "volleyball", "translation": "voleybol", "image": "🏐" },
+        { "id": "15", "word": "ping pong", "translation": "masa tenisi", "image": "🏓" }
+      ]
+    },
+    {
+      "id": "music",
+      "titles": {"tr": "Müzik", "en": "Music"},
+      "stars": 720,
+      "color": "#AB47BC",
+      "gradient": ["#CE93D8", "#6A1B9A"],
+      "story": { "emoji": "🎵", "tr": "Müzik başlasın! Enstrümanlar 🎸", "en": "Let the music start! Instruments 🎸" },
+      "sentences": [
+        { "en": "I play the ___", "tr": "___ çalıyorum" },
+        { "en": "I hear the ___", "tr": "___ duyuyorum" }
+      ],
+      "words": [
+        { "id": "1", "word": "guitar", "translation": "gitar", "image": "🎸" },
+        { "id": "2", "word": "piano", "translation": "piyano", "image": "🎹" },
+        { "id": "3", "word": "drum", "translation": "davul", "image": "🥁" },
+        { "id": "4", "word": "violin", "translation": "keman", "image": "🎻" },
+        { "id": "5", "word": "saxophone", "translation": "saksafon", "image": "🎷" },
+        { "id": "6", "word": "trumpet", "translation": "trompet", "image": "🎺" },
+        { "id": "7", "word": "flute", "translation": "flüt", "image": "🪈" },
+        { "id": "8", "word": "microphone", "translation": "mikrofon", "image": "🎤" },
+        { "id": "9", "word": "headphones", "translation": "kulaklık", "image": "🎧" },
+        { "id": "10", "word": "note", "translation": "nota", "image": "🎵" },
+        { "id": "11", "word": "song", "translation": "şarkı", "image": "🎶" },
+        { "id": "12", "word": "concert", "translation": "konser", "image": "🎤" },
+        { "id": "13", "word": "orchestra", "translation": "orkestra", "image": "🎼" },
+        { "id": "14", "word": "speaker", "translation": "hoparlör", "image": "🔊" },
+        { "id": "15", "word": "radio", "translation": "radyo", "image": "📻" }
+      ]
+    },
+    {
+      "id": "space",
+      "titles": {"tr": "Uzay", "en": "Space"},
+      "stars": 850,
+      "color": "#5C6BC0",
+      "gradient": ["#9FA8DA", "#1A237E"],
+      "story": { "emoji": "🚀", "tr": "Yıldızlara doğru! Uzay yolculuğu 🪐", "en": "To the stars! Space adventure 🪐" },
+      "sentences": [
+        { "en": "I see a ___", "tr": "Bir ___ görüyorum" },
+        { "en": "The ___ is far", "tr": "___ uzakta" }
+      ],
+      "words": [
+        { "id": "1", "word": "planet", "translation": "gezegen", "image": "🪐" },
+        { "id": "2", "word": "rocket", "translation": "roket", "image": "🚀" },
+        { "id": "3", "word": "astronaut", "translation": "astronot", "image": "👨‍🚀" },
+        { "id": "4", "word": "alien", "translation": "uzaylı", "image": "👽" },
+        { "id": "5", "word": "ufo", "translation": "ufo", "image": "🛸" },
+        { "id": "6", "word": "earth", "translation": "dünya", "image": "🌍" },
+        { "id": "7", "word": "galaxy", "translation": "galaksi", "image": "🌌" },
+        { "id": "8", "word": "comet", "translation": "kuyruklu yıldız", "image": "☄️" },
+        { "id": "9", "word": "satellite", "translation": "uydu", "image": "🛰️" },
+        { "id": "10", "word": "telescope", "translation": "teleskop", "image": "🔭" },
+        { "id": "11", "word": "meteor", "translation": "meteor", "image": "💫" },
+        { "id": "12", "word": "orbit", "translation": "yörünge", "image": "🌑" },
+        { "id": "13", "word": "universe", "translation": "evren", "image": "🌠" },
+        { "id": "14", "word": "mars", "translation": "mars", "image": "🔴" },
+        { "id": "15", "word": "space", "translation": "uzay", "image": "🌃" }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 1,
+  "version": 2,
   "updated": "2026-10-24",
   "categories": [
     {
@@ -40,7 +40,8 @@
         { "id": "22", "word": "turtle", "translation": "kaplumbağa", "image": "🐢" },
         { "id": "23", "word": "whale", "translation": "balina", "image": "🐋" },
         { "id": "24", "word": "dolphin", "translation": "yunus", "image": "🐬" },
-        { "id": "25", "word": "octopus", "translation": "ahtapot", "image": "🐙" }
+        { "id": "25", "word": "octopus", "translation": "ahtapot", "image": "🐙" },
+        { "id": "26", "word": "zebra", "translation": "zebra", "image": "🦓" }
       ]
     },
     {
